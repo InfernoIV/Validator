@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+   <properties> <entry key="validator.address">enter address</entry>
+        <entry key="validator.loginname">enter loginname</entry>
+	<entry key="validator.password">enter password</entry>
+	<entry key="validator.fieldname">fid5</entry>
+   </properties>
